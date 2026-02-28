@@ -1,3 +1,4 @@
+# Simple Linear Regression  
 This project focuses on predicting salaries based on years of experience using Python. The dataset contains two columns: YearsExperience and Salary. The project demonstrates data analysis, visualization, and regression modeling. Using Pandas, the dataset is loaded, explored, and prepared. Seaborn and Matplotlib are used to create scatter plots and regression plots to visualize the relationship between experience and salary.
 
 Two regression models are applied:
